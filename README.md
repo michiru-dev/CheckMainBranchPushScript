@@ -1,5 +1,5 @@
 # CheckMainBranchPushScript
 
-just for practice
+just for checking the script
 
 differ
